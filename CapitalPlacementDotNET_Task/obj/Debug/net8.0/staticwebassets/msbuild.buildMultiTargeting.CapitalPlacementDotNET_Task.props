@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CapitalPlacementDotNET_Task.props" />
+</Project>
