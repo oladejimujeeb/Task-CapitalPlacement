@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CapitalPlacementDotNET_Task")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e147d5cd629062434f5127dd19bdb99fefe17cab")]
 [assembly: System.Reflection.AssemblyProductAttribute("CapitalPlacementDotNET_Task")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CapitalPlacementDotNET_Task")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,3 +1,5 @@
+using CapitalPlacementDotNET_Task.Helper;
+using CapitalPlacementDotNET_Task.Model;
 using Microsoft.AspNetCore.Mvc;
 
 namespace CapitalPlacementDotNET_Task.Controllers
@@ -21,6 +23,7 @@ namespace CapitalPlacementDotNET_Task.Controllers
         [HttpGet(Name = "GetWeatherForecast")]
         public IEnumerable<WeatherForecast> Get()
         {
+           
             return Enumerable.Range(1, 5).Select(index => new WeatherForecast
             {
                 Date = DateOnly.FromDateTime(DateTime.Now.AddDays(index)),
